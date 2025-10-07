@@ -1,1 +1,1 @@
-# Bank-Loan-Project-SQL-and-Power-BI-Dashboard-
+# Bank Loan Project- Power BI & SQL
