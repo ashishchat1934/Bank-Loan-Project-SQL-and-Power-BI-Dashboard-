@@ -72,7 +72,7 @@ Designed **three interactive dashboards** with navigation buttons and dynamic fi
 ##  Dashboards
 
 ###  Dashboard 1: Summary
-Bank Loan Report Summary 1.png
+
 Tracks the overall health of the loan portfolio with key KPIs:
 - **Total Loan Applications**  
 - **Total Funded Amount**  
