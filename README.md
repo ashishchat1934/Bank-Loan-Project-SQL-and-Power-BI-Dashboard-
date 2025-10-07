@@ -72,8 +72,7 @@ Designed **three interactive dashboards** with navigation buttons and dynamic fi
 ##  Dashboards
 
 ###  Dashboard 1: Summary
-
-https://github.com/ashishchat1934/Bank-Loan-Project-SQL-and-Power-BI-Dashboard-/blob/2e88abc88a8c34a44c942050de975fbb2ee4cd25/Bank%20Loan%20Report%20Summary%201.png
+Bank Loan Report Summary 1.png
 Tracks the overall health of the loan portfolio with key KPIs:
 - **Total Loan Applications**  
 - **Total Funded Amount**  
