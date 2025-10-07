@@ -1,4 +1,4 @@
-#  Bank Loan Analysis – Power BI & SQL
+# Bank Loan Analysis – Power BI & SQL
 
 ---
 
@@ -72,7 +72,7 @@ Designed **three interactive dashboards** with navigation buttons and dynamic fi
 ##  Dashboards
 
 ###  Dashboard 1: Summary
-
+![Summary Dashboard](Bank%20Loan%20Report%20Summary%201.png)
 Tracks the overall health of the loan portfolio with key KPIs:
 - **Total Loan Applications**  
 - **Total Funded Amount**  
@@ -93,6 +93,7 @@ Displays metrics by loan status:
 ---
 
 ###  Dashboard 2: Overview
+![Details Dashboard](Bank%20Loan%20Report%20Details%202.png)
 Visualizes loan distribution and performance trends:
 - **Monthly Trends by Issue Date** (Line Chart)  
 - **Regional Analysis by State** (Filled Map)  
@@ -104,6 +105,7 @@ Visualizes loan distribution and performance trends:
 ---
 
 ###  Dashboard 3: Details
+![Summary Dashboard](Bank%20Loan%20Report%20Summary%201.png)
 Provides a consolidated table view of all loan-related information:
 - Filters by **State, Grade, Purpose**, and **Loan Type (Good/Bad)**  
 - Enables detailed analysis of borrower and loan metrics  
@@ -123,11 +125,11 @@ Provides a consolidated table view of all loan-related information:
 ---
 
 ##  Tools & Technologies Used
-- **MS SQL Server ** – For data storage and query processing  
-- **SQL Server Management Studio (SSMS)** – For database operations and analysis  
-- **Power BI ** – For visualization and dashboard creation  
-- **Microsoft Excel ** – For preliminary data inspection and export  
-- **DAX (Data Analysis Expressions)** – For custom metrics and KPIs  
+- MS SQL Server  – For data storage and query processing  
+- SQL Server Management Studio (SSMS) – For database operations and analysis  
+- Power BI  – For visualization and dashboard creation  
+- Microsoft Excel  – For preliminary data inspection and export  
+- DAX (Data Analysis Expressions) – For custom metrics and KPIs  
 
 ---
 
@@ -154,4 +156,3 @@ This portfolio project highlights data analysis, SQL querying, DAX calculations,
 
 ---
 
-⭐ **If you found this project helpful, don't forget to star the repo!**
