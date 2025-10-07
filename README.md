@@ -1,4 +1,4 @@
-# 💼 Bank Loan Analysis – Power BI & SQL
+#  Bank Loan Analysis – Power BI & SQL
 
 ---
 
@@ -17,12 +17,12 @@ The dataset contains:
 - Loan Status  
 - Funded Amount  
 - Amount Received  
-- Term (36/60 months)  
+- Term of Loan 
 - Employment Length  
 - Loan Purpose  
 - Home Ownership  
 - Interest Rate  
-- DTI Ratio  
+- DTI (Debt to Income) Ratio  
 - State, Grade, and other borrower details  
 
 ---
